@@ -19,9 +19,5 @@ public class Main {
             n = Base.findChoice(desiredList);
             new Base().filterList(n);
         }
-
-//        for(Notebook notebook : notebookList) {
-//            notebook.toString();
-        }
-
+    }
 }
